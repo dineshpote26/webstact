@@ -1,0 +1,30 @@
+{
+   "data":{
+      "advertiseConfigList":[
+         {
+            "userId":0,
+            "fileName":"Global_Food_Contact_Regulations.jpg",
+            "filePath":"https://webstac.in/senselapp/style/advertisement/Global_Food_Contact_Regulations.jpg",
+            "status":"ACTIVE"
+         },
+         {
+            "userId":0,
+            "fileName":"hse_1.jpg",
+            "filePath":"https://webstac.in/senselapp/style/advertisement/hse_1.jpg",
+            "status":"ACTIVE"
+         },
+         {
+            "userId":0,
+            "fileName":"HSE.jpg",
+            "filePath":"https://webstac.in/senselapp/style/advertisement/HSE.jpg",
+            "status":"ACTIVE"
+         },
+         {
+            "userId":0,
+            "fileName":"labour_regulation.jpg",
+            "filePath":"https://webstac.in/senselapp/style/advertisement/labour_regulation.jpg",
+            "status":"ACTIVE"
+         }
+      ]
+   }
+}
